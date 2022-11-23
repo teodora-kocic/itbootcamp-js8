@@ -1,0 +1,50 @@
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  color: purple;
+  font-size: 20px;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+  border: 2px dashed;
+}
+
+a {
+  color: rgb(131, 72, 0);
+}
+
+body {
+  background-color: rgb(251, 158, 44);
+  font-family: Arial;
+}
+
+.naslov {
+  text-align: center;
+}
+
+.par {
+  font-size: 24px;
+  text-align: right;
+}
+
+h4 {
+  text-align: center;
+  color: green;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: yellow;
+}

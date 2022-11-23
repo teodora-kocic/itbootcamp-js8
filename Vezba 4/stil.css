@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(247, 235, 141);
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+img {
+  border: 1px double red;
+}
+
+.par_2 {
+  color: red;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+#par_1 {
+  color: rgb(24, 22, 22);
+}
+
+#par_1 a {
+  color: red;
+}
+
+#par_1 a:hover {
+  color: green;
+}
